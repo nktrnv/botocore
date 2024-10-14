@@ -35,6 +35,7 @@ VALID_REGIONAL_ENDPOINTS_CONFIG = [
     'legacy',
     'regional',
 ]
+
 LEGACY_GLOBAL_STS_REGIONS = [
     'ap-northeast-1',
     'ap-south-1',
